@@ -1,4 +1,7 @@
-body{
-    margin: 0;
-    padding: 0;
-}
+@charset "UTF-8";
+
+@import "reset";
+@import "variables";
+@import "fonts";
+@import "mixins";
+@import "core";

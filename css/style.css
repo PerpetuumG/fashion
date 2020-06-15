@@ -1,6 +1,4 @@
-body {
-  margin: 0;
-  padding: 0;
-}
-
-/*# sourceMappingURL=style.css.map */
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: File to import not found or unreadable: variables.\A        Load path: D:/OpenServer/OSPanel/domains/fashion/scss\A         on line 4 of D:\OpenServer\OSPanel\domains\fashion\scss\style.scss\A \A 1: @charset \"UTF-8\";\A 2: \A 3: @import \"reset\";\A 4: @import \"variables\";\A 5: @import \"fonts\";\A 6: @import \"mixins\";\A 7: @import \"core\";"; }
