@@ -121,9 +121,11 @@ gulp.task('copy', function () {
 
 });
 
+
 gulp.task('clean', function () {
   return del('build');
 });
+
 
 gulp.task('build', function (fn) {
   run(
